@@ -21,7 +21,7 @@
 **Achivements:**
 - Honorable Prize at Vietnam's Mathematical Olympiad 2020-2021
 
-**I'm currently learning [C++](), [C#]() and [Python]()**
+**I'm currently learning [C++](), [C#]() and [Python]().**
 
 **I'm interested in AI and its applications.**
 
